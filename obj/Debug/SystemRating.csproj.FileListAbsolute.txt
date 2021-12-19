@@ -1,0 +1,13 @@
+E:\CW\SystemRating\bin\Debug\SystemRating.exe.config
+E:\CW\SystemRating\bin\Debug\SystemRating.exe
+E:\CW\SystemRating\bin\Debug\SystemRating.pdb
+E:\CW\SystemRating\obj\Debug\SystemRating.csprojAssemblyReference.cache
+E:\CW\SystemRating\obj\Debug\SystemRating.AdminForm.resources
+E:\CW\SystemRating\obj\Debug\SystemRating.Properties.Resources.resources
+E:\CW\SystemRating\obj\Debug\SystemRating.RatingForm.resources
+E:\CW\SystemRating\obj\Debug\SystemRating.csproj.GenerateResource.cache
+E:\CW\SystemRating\obj\Debug\SystemRating.csproj.CoreCompileInputs.cache
+E:\CW\SystemRating\obj\Debug\SystemRating.exe
+E:\CW\SystemRating\obj\Debug\SystemRating.pdb
+E:\CW\SystemRating\obj\Debug\SystemRating.SortResult.resources
+E:\CW\SystemRating\obj\Debug\SystemRating.ChartForm.resources

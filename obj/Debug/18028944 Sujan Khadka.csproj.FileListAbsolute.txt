@@ -1,0 +1,40 @@
+C:\Users\Acer\Desktop\18028880 Ankit Adhikari\bin\Debug\SystemRating.exe.config
+C:\Users\Acer\Desktop\18028880 Ankit Adhikari\bin\Debug\SystemRating.exe
+C:\Users\Acer\Desktop\18028880 Ankit Adhikari\bin\Debug\SystemRating.pdb
+C:\Users\Acer\Desktop\18028880 Ankit Adhikari\obj\Debug\18028944 Sujan Khadka.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\18028880 Ankit Adhikari\obj\Debug\SystemRating.Properties.Resources.resources
+C:\Users\Acer\Desktop\18028880 Ankit Adhikari\obj\Debug\_18028944_Sujan_Khadka.RatingForm.resources
+C:\Users\Acer\Desktop\18028880 Ankit Adhikari\obj\Debug\18028944 Sujan Khadka.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\18028880 Ankit Adhikari\obj\Debug\18028944 Sujan Khadka.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\18028880 Ankit Adhikari\obj\Debug\SystemRating.exe
+C:\Users\Acer\Desktop\18028880 Ankit Adhikari\obj\Debug\SystemRating.pdb
+C:\Users\Acer\Desktop\18028880 Ankit Adhikari\obj\Debug\_18028944_Sujan_Khadka.FormAdmin.resources
+C:\Users\Acer\Desktop\18028880 Ankit Adhikari\obj\Debug\_18028944_Sujan_Khadka.FormChart.resources
+C:\Users\Acer\Desktop\18028880 Ankit Adhikari\obj\Debug\_18028944_Sujan_Khadka.SortResult.resources
+C:\Users\Acer\Desktop\18028944 Sujan Khadka\bin\Debug\SystemRating.exe.config
+C:\Users\Acer\Desktop\18028944 Sujan Khadka\bin\Debug\SystemRating.exe
+C:\Users\Acer\Desktop\18028944 Sujan Khadka\bin\Debug\SystemRating.pdb
+C:\Users\Acer\Desktop\18028944 Sujan Khadka\obj\Debug\18028944 Sujan Khadka.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\18028944 Sujan Khadka\obj\Debug\_18028944_Sujan_Khadka.FormAdmin.resources
+C:\Users\Acer\Desktop\18028944 Sujan Khadka\obj\Debug\_18028944_Sujan_Khadka.FormChart.resources
+C:\Users\Acer\Desktop\18028944 Sujan Khadka\obj\Debug\SystemRating.Properties.Resources.resources
+C:\Users\Acer\Desktop\18028944 Sujan Khadka\obj\Debug\_18028944_Sujan_Khadka.ratingForm.resources
+C:\Users\Acer\Desktop\18028944 Sujan Khadka\obj\Debug\_18028944_Sujan_Khadka.sortingResult.resources
+C:\Users\Acer\Desktop\18028944 Sujan Khadka\obj\Debug\18028944 Sujan Khadka.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\18028944 Sujan Khadka\obj\Debug\18028944 Sujan Khadka.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\18028944 Sujan Khadka\obj\Debug\SystemRating.exe
+C:\Users\Acer\Desktop\18028944 Sujan Khadka\obj\Debug\SystemRating.pdb
+D:\3rd year last sem\college 2nd year\Application Development\18028944 Sujan Khadka\18028944 Sujan Khadka\code\bin\Debug\SystemRating.exe.config
+D:\3rd year last sem\college 2nd year\Application Development\18028944 Sujan Khadka\18028944 Sujan Khadka\code\bin\Debug\SystemRating.exe
+D:\3rd year last sem\college 2nd year\Application Development\18028944 Sujan Khadka\18028944 Sujan Khadka\code\bin\Debug\SystemRating.pdb
+D:\3rd year last sem\college 2nd year\Application Development\18028944 Sujan Khadka\18028944 Sujan Khadka\code\obj\Debug\18028944 Sujan Khadka.csproj.AssemblyReference.cache
+D:\3rd year last sem\college 2nd year\Application Development\18028944 Sujan Khadka\18028944 Sujan Khadka\code\obj\Debug\18028944 Sujan Khadka.csproj.SuggestedBindingRedirects.cache
+D:\3rd year last sem\college 2nd year\Application Development\18028944 Sujan Khadka\18028944 Sujan Khadka\code\obj\Debug\_18028944_Sujan_Khadka.FormAdmin.resources
+D:\3rd year last sem\college 2nd year\Application Development\18028944 Sujan Khadka\18028944 Sujan Khadka\code\obj\Debug\_18028944_Sujan_Khadka.FormChart.resources
+D:\3rd year last sem\college 2nd year\Application Development\18028944 Sujan Khadka\18028944 Sujan Khadka\code\obj\Debug\SystemRating.Properties.Resources.resources
+D:\3rd year last sem\college 2nd year\Application Development\18028944 Sujan Khadka\18028944 Sujan Khadka\code\obj\Debug\_18028944_Sujan_Khadka.ratingForm.resources
+D:\3rd year last sem\college 2nd year\Application Development\18028944 Sujan Khadka\18028944 Sujan Khadka\code\obj\Debug\_18028944_Sujan_Khadka.sortingResult.resources
+D:\3rd year last sem\college 2nd year\Application Development\18028944 Sujan Khadka\18028944 Sujan Khadka\code\obj\Debug\18028944 Sujan Khadka.csproj.GenerateResource.cache
+D:\3rd year last sem\college 2nd year\Application Development\18028944 Sujan Khadka\18028944 Sujan Khadka\code\obj\Debug\18028944 Sujan Khadka.csproj.CoreCompileInputs.cache
+D:\3rd year last sem\college 2nd year\Application Development\18028944 Sujan Khadka\18028944 Sujan Khadka\code\obj\Debug\SystemRating.exe
+D:\3rd year last sem\college 2nd year\Application Development\18028944 Sujan Khadka\18028944 Sujan Khadka\code\obj\Debug\SystemRating.pdb

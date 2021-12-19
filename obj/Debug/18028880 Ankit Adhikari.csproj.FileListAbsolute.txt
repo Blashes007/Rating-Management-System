@@ -1,0 +1,65 @@
+E:\CW\SystemRating\bin\Debug\SystemRating.exe.config
+E:\CW\SystemRating\bin\Debug\SystemRating.exe
+E:\CW\SystemRating\bin\Debug\SystemRating.pdb
+E:\CW\SystemRating\obj\Debug\18028880 Ankit Adhikari.csprojAssemblyReference.cache
+E:\CW\SystemRating\obj\Debug\_18028880_Ankit_Adhikari.AdminForm.resources
+E:\CW\SystemRating\obj\Debug\_18028880_Ankit_Adhikari.ChartForm.resources
+E:\CW\SystemRating\obj\Debug\SystemRating.Properties.Resources.resources
+E:\CW\SystemRating\obj\Debug\_18028880_Ankit_Adhikari.RatingForm.resources
+E:\CW\SystemRating\obj\Debug\_18028880_Ankit_Adhikari.SortResult.resources
+E:\CW\SystemRating\obj\Debug\18028880 Ankit Adhikari.csproj.GenerateResource.cache
+E:\CW\SystemRating\obj\Debug\18028880 Ankit Adhikari.csproj.CoreCompileInputs.cache
+E:\CW\SystemRating\obj\Debug\SystemRating.exe
+E:\CW\SystemRating\obj\Debug\SystemRating.pdb
+E:\18028880 Ankit Adhikari\bin\Debug\SystemRating.exe.config
+E:\18028880 Ankit Adhikari\bin\Debug\SystemRating.exe
+E:\18028880 Ankit Adhikari\bin\Debug\SystemRating.pdb
+E:\18028880 Ankit Adhikari\obj\Debug\18028880 Ankit Adhikari.csprojAssemblyReference.cache
+E:\18028880 Ankit Adhikari\obj\Debug\_18028880_Ankit_Adhikari.AdminForm.resources
+E:\18028880 Ankit Adhikari\obj\Debug\_18028880_Ankit_Adhikari.ChartForm.resources
+E:\18028880 Ankit Adhikari\obj\Debug\SystemRating.Properties.Resources.resources
+E:\18028880 Ankit Adhikari\obj\Debug\_18028880_Ankit_Adhikari.RatingForm.resources
+E:\18028880 Ankit Adhikari\obj\Debug\_18028880_Ankit_Adhikari.SortResult.resources
+E:\18028880 Ankit Adhikari\obj\Debug\18028880 Ankit Adhikari.csproj.GenerateResource.cache
+E:\18028880 Ankit Adhikari\obj\Debug\18028880 Ankit Adhikari.csproj.CoreCompileInputs.cache
+E:\18028880 Ankit Adhikari\obj\Debug\SystemRating.exe
+E:\18028880 Ankit Adhikari\obj\Debug\SystemRating.pdb
+F:\DOWNLOADS\Compressed\18028880 Ankit Adhikari\18028880 Ankit Adhikari\bin\Debug\SystemRating.exe.config
+F:\DOWNLOADS\Compressed\18028880 Ankit Adhikari\18028880 Ankit Adhikari\bin\Debug\SystemRating.exe
+F:\DOWNLOADS\Compressed\18028880 Ankit Adhikari\18028880 Ankit Adhikari\bin\Debug\SystemRating.pdb
+F:\DOWNLOADS\Compressed\18028880 Ankit Adhikari\18028880 Ankit Adhikari\obj\Debug\18028880 Ankit Adhikari.csprojAssemblyReference.cache
+F:\DOWNLOADS\Compressed\18028880 Ankit Adhikari\18028880 Ankit Adhikari\obj\Debug\_18028880_Ankit_Adhikari.AdminForm.resources
+F:\DOWNLOADS\Compressed\18028880 Ankit Adhikari\18028880 Ankit Adhikari\obj\Debug\_18028880_Ankit_Adhikari.ChartForm.resources
+F:\DOWNLOADS\Compressed\18028880 Ankit Adhikari\18028880 Ankit Adhikari\obj\Debug\SystemRating.Properties.Resources.resources
+F:\DOWNLOADS\Compressed\18028880 Ankit Adhikari\18028880 Ankit Adhikari\obj\Debug\_18028880_Ankit_Adhikari.RatingForm.resources
+F:\DOWNLOADS\Compressed\18028880 Ankit Adhikari\18028880 Ankit Adhikari\obj\Debug\_18028880_Ankit_Adhikari.SortResult.resources
+F:\DOWNLOADS\Compressed\18028880 Ankit Adhikari\18028880 Ankit Adhikari\obj\Debug\18028880 Ankit Adhikari.csproj.GenerateResource.cache
+F:\DOWNLOADS\Compressed\18028880 Ankit Adhikari\18028880 Ankit Adhikari\obj\Debug\18028880 Ankit Adhikari.csproj.CoreCompileInputs.cache
+F:\DOWNLOADS\Compressed\18028880 Ankit Adhikari\18028880 Ankit Adhikari\obj\Debug\SystemRating.exe
+F:\DOWNLOADS\Compressed\18028880 Ankit Adhikari\18028880 Ankit Adhikari\obj\Debug\SystemRating.pdb
+F:\18028880 Ankit Adhikari\18028880 Ankit Adhikari\obj\Debug\18028880 Ankit Adhikari.csprojAssemblyReference.cache
+F:\18028880 Ankit Adhikari\18028880 Ankit Adhikari\obj\Debug\_18028880_Ankit_Adhikari.AdminForm.resources
+F:\18028880 Ankit Adhikari\18028880 Ankit Adhikari\obj\Debug\_18028880_Ankit_Adhikari.ChartForm.resources
+F:\18028880 Ankit Adhikari\18028880 Ankit Adhikari\obj\Debug\SystemRating.Properties.Resources.resources
+F:\18028880 Ankit Adhikari\18028880 Ankit Adhikari\obj\Debug\_18028880_Ankit_Adhikari.RatingForm.resources
+F:\18028880 Ankit Adhikari\18028880 Ankit Adhikari\obj\Debug\_18028880_Ankit_Adhikari.SortResult.resources
+F:\18028880 Ankit Adhikari\18028880 Ankit Adhikari\obj\Debug\18028880 Ankit Adhikari.csproj.GenerateResource.cache
+F:\18028880 Ankit Adhikari\18028880 Ankit Adhikari\obj\Debug\18028880 Ankit Adhikari.csproj.CoreCompileInputs.cache
+F:\18028880 Ankit Adhikari\18028880 Ankit Adhikari\obj\Debug\SystemRating.exe
+F:\18028880 Ankit Adhikari\18028880 Ankit Adhikari\obj\Debug\SystemRating.pdb
+F:\18028880 Ankit Adhikari\18028880 Ankit Adhikari\bin\Debug\SystemRating.exe.config
+F:\18028880 Ankit Adhikari\18028880 Ankit Adhikari\bin\Debug\SystemRating.exe
+F:\18028880 Ankit Adhikari\18028880 Ankit Adhikari\bin\Debug\SystemRating.pdb
+C:\Users\akraj\Desktop\AD ankit\18028880 Ankit Adhikari-20210121T062205Z-001\18028880 Ankit Adhikari\bin\Debug\SystemRating.exe.config
+C:\Users\akraj\Desktop\AD ankit\18028880 Ankit Adhikari-20210121T062205Z-001\18028880 Ankit Adhikari\bin\Debug\SystemRating.exe
+C:\Users\akraj\Desktop\AD ankit\18028880 Ankit Adhikari-20210121T062205Z-001\18028880 Ankit Adhikari\bin\Debug\SystemRating.pdb
+C:\Users\akraj\Desktop\AD ankit\18028880 Ankit Adhikari-20210121T062205Z-001\18028880 Ankit Adhikari\obj\Debug\18028880 Ankit Adhikari.csprojAssemblyReference.cache
+C:\Users\akraj\Desktop\AD ankit\18028880 Ankit Adhikari-20210121T062205Z-001\18028880 Ankit Adhikari\obj\Debug\_18028880_Ankit_Adhikari.AdminForm.resources
+C:\Users\akraj\Desktop\AD ankit\18028880 Ankit Adhikari-20210121T062205Z-001\18028880 Ankit Adhikari\obj\Debug\_18028880_Ankit_Adhikari.ChartForm.resources
+C:\Users\akraj\Desktop\AD ankit\18028880 Ankit Adhikari-20210121T062205Z-001\18028880 Ankit Adhikari\obj\Debug\SystemRating.Properties.Resources.resources
+C:\Users\akraj\Desktop\AD ankit\18028880 Ankit Adhikari-20210121T062205Z-001\18028880 Ankit Adhikari\obj\Debug\_18028880_Ankit_Adhikari.RatingForm.resources
+C:\Users\akraj\Desktop\AD ankit\18028880 Ankit Adhikari-20210121T062205Z-001\18028880 Ankit Adhikari\obj\Debug\_18028880_Ankit_Adhikari.SortResult.resources
+C:\Users\akraj\Desktop\AD ankit\18028880 Ankit Adhikari-20210121T062205Z-001\18028880 Ankit Adhikari\obj\Debug\18028880 Ankit Adhikari.csproj.GenerateResource.cache
+C:\Users\akraj\Desktop\AD ankit\18028880 Ankit Adhikari-20210121T062205Z-001\18028880 Ankit Adhikari\obj\Debug\18028880 Ankit Adhikari.csproj.CoreCompileInputs.cache
+C:\Users\akraj\Desktop\AD ankit\18028880 Ankit Adhikari-20210121T062205Z-001\18028880 Ankit Adhikari\obj\Debug\SystemRating.exe
+C:\Users\akraj\Desktop\AD ankit\18028880 Ankit Adhikari-20210121T062205Z-001\18028880 Ankit Adhikari\obj\Debug\SystemRating.pdb
